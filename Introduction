@@ -1,0 +1,10 @@
+It is multi-paradigm, dynamically-typed, interpreted langauge, single threaded.
+It is prototype-based inheritance.
+
+What are the application of java script?
+1. To make web page interactive 
+[To write code which decides what should happen when events are triggered.]
+
+2. Requesting data from the server or APL [Application Programming Interface.]
+
+3.  Maniputation and Decorating the data coming from the backend. 
